@@ -4,6 +4,9 @@
     <groupId>net.middell</groupId>
     <artifactId>xml-utils</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>Java/XML Utilities</name>
+    <description>Java/XML Utilities</description>
+    <url>http://github.com/gremid/xml-utils/</url>
 
     <inceptionYear>2017</inceptionYear>
 
